@@ -8,7 +8,7 @@ use_site_title_in_head: true
 layout: home
 ---
 <div class="profile-picture-container">
-    <img src="/assets/profile.png" class="profile-picture" />
+    <img src="/assets/profile.PNG" class="profile-picture" />
 </div>
 
 I am currently an MPhil student in Statistics at The University of Western
