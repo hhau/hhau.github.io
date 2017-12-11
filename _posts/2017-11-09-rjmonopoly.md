@@ -7,7 +7,7 @@ tags:
 - R
 ---
 
-Part of the output from my MPhil work has been code to fit monotone polynomials
-with reversible jump, to enable the selection of the appropriate degree for a
-specific data set. This code is now in the [rjmonopoly](https://github.com/hhau/rjmonopoly)
-package.
+The output from my MPhil work includes code to fit monotone polynomials
+using a reversible jump sampler, so as to enable the selection of the
+appropriate degree for a specific data set. This code is now in the
+[rjmonopoly](https://github.com/hhau/rjmonopoly) package.
