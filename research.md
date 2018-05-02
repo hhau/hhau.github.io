@@ -27,4 +27,3 @@ Monotone polynomials using BUGS and Stan,
 _Australian & New Zealand Journal of Statistics_ **59**(4): 353–370. 
 Doi: 10.1111/anzs.12207.
 
-
