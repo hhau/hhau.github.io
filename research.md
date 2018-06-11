@@ -19,7 +19,7 @@ Doi: 10.1111/evj.12957
 
 **Manderson, A.A.**, Murray, K. and Turlach, B.A. (2018).
 Dynamic Bayesian forecasting of AFL match results using the Skellam distribution,
-_Australian & New Zealand Journal of Statistics_. 
+_Australian & New Zealand Journal of Statistics_ **60**(2): 174-187. 
 Doi: 10.1111/anzs.12225 
 
 **Manderson, A.A.**, Cripps, E., Murray, K. and Turlach, B.A. (2017).
