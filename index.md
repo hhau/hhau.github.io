@@ -11,9 +11,12 @@ layout: home
     <img src="/assets/profile.PNG" class="profile-picture" />
 </div>
 
-I am currently an MPhil student in Statistics at The University of Western
+I am currently a research assistant at the [UWA Oceans Institute](http://www.oceans.uwa.edu.au/)
+
+Previously, I was an MPhil student in Statistics at The University of Western
 Australia, supervised by [Berwin Turlach](http://staffhome.ecm.uwa.edu.au/~00043886/)
-and [Kevin Murray](http://www.web.uwa.edu.au/person/kevin.murray).
+and [Kevin Murray](http://www.web.uwa.edu.au/person/kevin.murray). You can find
+my thesis [here](https://doi.org/10.4225/23/5b33343ad69b4).
 
 My academic work is available [here]({% link research.md %}), and software/packages
-are available [here]({%link software.md%})
+I've written are listed [here]({%link software.md%})
