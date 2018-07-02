@@ -4,12 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-# Current work
-
-Currently preparing my Masters thesis on Bayesian monotonic polynomials,
-incorporating them into random effect structures, and order selection with
-reversible jump.
-
 # Publications
 
 Crispe, E.J., Secombe, C.J., Perera, D.I., **Manderson, A.A.**, Turlach, B.A. and
@@ -27,3 +21,7 @@ Monotone polynomials using BUGS and Stan,
 _Australian & New Zealand Journal of Statistics_ **59**(4): 353–370. 
 Doi: 10.1111/anzs.12207.
 
+# Thesis
+
+**Manderson, A.** (2018). _Methodology for Bayesian monotonic polynomials_ 
+Doi: 10.4225/23/5b33343ad69b4
