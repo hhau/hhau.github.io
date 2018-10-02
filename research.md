@@ -27,7 +27,7 @@ DOI: 10.1111/anzs.12207.
 
 # Master's Thesis
 
-Methodology for Bayesian monotonic polynomials (2018).
-_The University of Western Australia_, 
+Methodology for Bayesian monotonic polynomials (2018),
+_The University of Western Australia_. 
 Supervised by: Turlach, B.A. and Murray, K.
 DOI: 10.4225/23/5b33343ad69b4 
