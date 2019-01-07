@@ -8,10 +8,17 @@ permalink: /research/
 
 TBA! 
 
+# In preparation
+
+**Manderson, A.**, Rayson, M., Cripps, E., Girolami, M., Gosling, J.P., Hodkiewicz,
+M., Jones, N. and Ivey, G. (2018). Uncertainty quantification of density and
+stratification estimates with implications for predicting ocean dynamics.
+Submitted to the _Journal of Atmospheric and Oceanic Technology_.
+
 # Publications
 
 Crispe, E.J., Secombe, C.J., Perera, D.I., **Manderson, A.A.**, Turlach, B.A. and
-Lester, G.D. (2018). Exercise-induced pulmonary haemorrhage in Thoroughbred
+Lester, G.D. (2019). Exercise-induced pulmonary haemorrhage in Thoroughbred
 racehorses: A longitudinal study, _Equine Veterinary Journal_.
 DOI: 10.1111/evj.12957
 
@@ -25,7 +32,7 @@ Monotone polynomials using BUGS and Stan,
 _Australian & New Zealand Journal of Statistics_ **59**(4): 353–370. 
 DOI: 10.1111/anzs.12207.
 
-# Master's Thesis
+# MPhil Thesis
 
 Methodology for Bayesian monotonic polynomials (2018),
 _The University of Western Australia_. 
