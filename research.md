@@ -16,8 +16,8 @@ applications.
 **Manderson, A.**, Rayson, M., Cripps, E., Girolami, M., Gosling, J.P.,
 Hodkiewicz, M., Jones, N. and Ivey, G. (2019). Uncertainty quantification of
 density and stratification estimates with implications for predicting ocean
-dynamics. Accepted for publication in _Journal of Atmospheric and Oceanic
-Technology_.
+dynamics. _Journal of Atmospheric and Oceanic Technology_. DOI: 
+10.1175/JTECH-D-18-0200.1
 
 Crispe, E.J., Secombe, C.J., Perera, D.I., **Manderson, A.A.**, Turlach, B.A.
 and Lester, G.D. (2018). Exercise-induced pulmonary haemorrhage in Thoroughbred
