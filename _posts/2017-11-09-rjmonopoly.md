@@ -8,6 +8,6 @@ tags:
 ---
 
 The output from my MPhil work includes code to fit monotone polynomials
-using a reversible jump sampler, so as to enable the selection of the
+using a reversible jump sampler, enabling the selection of the
 appropriate degree for a specific data set. This code is now in the
 [rjmonopoly](https://github.com/hhau/rjmonopoly) package.

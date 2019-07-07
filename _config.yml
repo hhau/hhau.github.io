@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Andrew Manderson
-email: andrew.manderson@research.uwa.edu.au
+email: andrew.manderson@mrc-bsu.cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  MPhil student at The University of Western Australia
+  PhD student at the MRC Biostatistics Unit and The Alan Turing Institute
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  hhau
+github_username: hhau
 # Build settings
 markdown: kramdown
 theme: minima #jekyll-theme-midnight
