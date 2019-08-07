@@ -12,8 +12,8 @@ layout: home
 </div>
 
 I am currently a [doctoral student](https://www.turing.ac.uk/people/doctoral-students/andrew-manderson) 
-at the [MRC Biostatistics Unit](https://www.mrc-bsu.cam.ac.uk/) 
-at the University of Cambridge and [The Alan Turing Institute](https://www.turing.ac.uk/).
+at the [MRC Biostatistics Unit](https://www.mrc-bsu.cam.ac.uk/), 
+University of Cambridge and [The Alan Turing Institute](https://www.turing.ac.uk/).
 
 I previously was a research assistant at the [UWA Oceans Institute](http://www.oceans.uwa.edu.au/)
 
@@ -23,4 +23,5 @@ and [Kevin Murray](http://www.web.uwa.edu.au/person/kevin.murray). You can find
 my thesis [here](https://doi.org/10.4225/23/5b33343ad69b4).
 
 My academic work is available [here]({% link research.md %}), and software/packages
-I've written are listed [here]({%link software.md%})
+I've written are listed [here]({%link software.md%}).
+I try to push my current projects to [GitHub](https://github.com/hhau) where possible.

@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
----
+--- 
 
 # Current work
 
@@ -39,3 +39,6 @@ _The University of Western Australia_.
 Supervised by: Turlach, B.A. and Murray, K.
 DOI: 10.4225/23/5b33343ad69b4 
 
+# Links
+
+See my [ORCID](https://orcid.org/0000-0002-4946-9016).
