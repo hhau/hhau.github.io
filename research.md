@@ -32,6 +32,13 @@ New Zealand Journal of Statistics_ **60**(2): 174-187.  DOI: 10.1111/anzs.12225
 polynomials using BUGS and Stan, _Australian & New Zealand Journal of
 Statistics_ **59**(4): 353–370.  DOI: 10.1111/anzs.12207.
 
+# Book chapters
+
+**Manderson, A.A.**, Murray, K., Turlach, B.A., (2019). 
+Flexible Regression Modelling Under Shape Constraints, in: 
+_Fan, Y., Nott, D., Smith, M.S., Dortet-Bernadet, J.-L. (Eds.), Flexible Bayesian Regression Modelling_.
+Academic Press, pp. 251–279.
+
 # MPhil Thesis
 
 Methodology for Bayesian monotonic polynomials (2018),
