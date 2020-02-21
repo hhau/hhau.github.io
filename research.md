@@ -20,7 +20,7 @@ integrating Bayesian models using Markov melding. _arXiv preprint_,
 **Manderson, A.**, Rayson, M., Cripps, E., Girolami, M., Gosling, J.P.,
 Hodkiewicz, M., Jones, N. and Ivey, G. (2019). Uncertainty quantification of
 density and stratification estimates with implications for predicting ocean
-dynamics. _Journal of Atmospheric and Oceanic Technology_, **36**: 1313–1330. 
+dynamics. _Journal of Atmospheric and Oceanic Technology_, **36**: 1313–1330.  
 DOI: [10.1175/JTECH-D-18-0200.1](https://doi.org/10.1175/JTECH-D-18-0200.1)
 
 Crispe, E. J., Secombe, C. J., Perera, D. I., **Manderson, A. A.**, Turlach, B. A.
@@ -49,7 +49,7 @@ Academic Press, pp. 251–279.
 
 Methodology for Bayesian monotonic polynomials (2018),
 _The University of Western Australia_. 
-Supervised by: Turlach, B.A. and Murray, K.
+Supervised by: Turlach, B.A. and Murray, K.  
 DOI: [10.4225/23/5b33343ad69b4 ](https://doi.org/10.4225/23/5b33343ad69b4 )
 
 # Links
