@@ -27,9 +27,7 @@ show_downloads: false
 plugins:
   - jekyll-feed
 
-minima:
-  social_links:
-    twitter: hhau_stats
+twitter_username: hhau_stats
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
