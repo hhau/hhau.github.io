@@ -9,7 +9,11 @@ permalink: /research/
 [Markov melding](https://projecteuclid.org/euclid.ba/1523671251) methodology and
 applications.
 
-<!-- # In preparation -->
+# Preprints
+
+**Manderson, A.A**, Goudie, R.J.B. (2020). A numerically stable algorithm for 
+integrating Bayesian models using Markov melding. _arXiv preprint_,
+[arXiv:2001.08038](https://arxiv.org/abs/2001.08038)
 
 # Publications
 
@@ -30,7 +34,7 @@ New Zealand Journal of Statistics_ **60**(2): 174-187.  DOI: 10.1111/anzs.12225
 
 **Manderson, A.A.**, Cripps, E., Murray, K. and Turlach, B.A. (2017). Monotone
 polynomials using BUGS and Stan, _Australian & New Zealand Journal of
-Statistics_ **59**(4): 353–370.  DOI: 10.1111/anzs.12207.
+Statistics_ **59**(4): 353–370.  DOI: 10.1111/anzs.12207
 
 # Book chapters
 
