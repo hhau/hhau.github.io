@@ -18,7 +18,7 @@ email: andrew.manderson@mrc-bsu.cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   PhD student at the MRC Biostatistics Unit and The Alan Turing Institute
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hhau.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: hhau
 # Build settings
 markdown: kramdown
@@ -26,6 +26,10 @@ theme: minima #jekyll-theme-midnight
 show_downloads: false
 plugins:
   - jekyll-feed
+
+minima:
+  social_links:
+    twitter: hhau_stats
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
