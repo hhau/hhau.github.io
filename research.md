@@ -12,7 +12,7 @@ applications.
 # Preprints
 
 **Manderson, A.A**, Goudie, R.J.B. (2020). A numerically stable algorithm for 
-integrating Bayesian models using Markov melding. _arXiv preprint_,
+integrating Bayesian models using Markov melding. _arXiv preprint_,  
 [arXiv:2001.08038](https://arxiv.org/abs/2001.08038)
 
 # Publications
@@ -25,7 +25,7 @@ DOI: [10.1175/JTECH-D-18-0200.1](https://doi.org/10.1175/JTECH-D-18-0200.1)
 
 Crispe, E. J., Secombe, C. J., Perera, D. I., **Manderson, A. A.**, Turlach, B. A.
 and Lester, G. D. (2019), Exercise‐induced pulmonary haemorrhage in Thoroughbred
-racehorses: a longitudinal study. _Equine Vet J_, **51**: 45-51. 
+racehorses: a longitudinal study. _Equine Vet J_, **51**: 45-51.  
 DOI: [10.1111/evj.12957](https://doi.org/10.1111/evj.12957)
 
 **Manderson, A.A.**, Murray, K. and Turlach, B.A. (2018). Dynamic Bayesian
