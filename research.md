@@ -11,7 +11,7 @@ applications.
 
 # Preprints
 
-**Manderson, A.A**, Goudie, R.J.B. (2020). Combining chains of Bayesian models
+**Manderson, A.A**, Goudie, R.J.B. (2021). Combining chains of Bayesian models
 with Markov melding. _arXiv preprint_,
 [arXiv:2111.11566](https://arxiv.org/abs/2111.11566)
 
