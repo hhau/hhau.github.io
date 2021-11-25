@@ -11,6 +11,10 @@ applications.
 
 # Preprints
 
+**Manderson, A.A**, Goudie, R.J.B. (2020). Combining chains of Bayesian models
+with Markov melding. _arXiv preprint_,
+[arXiv:2111.11566](https://arxiv.org/abs/2111.11566)
+
 **Manderson, A.A**, Goudie, R.J.B. (2020). A numerically stable algorithm for 
 integrating Bayesian models using Markov melding. _arXiv preprint_, 
 [arXiv:2001.08038](https://arxiv.org/abs/2001.08038)
@@ -54,4 +58,5 @@ DOI: [10.4225/23/5b33343ad69b4 ](https://doi.org/10.4225/23/5b33343ad69b4 )
 
 # Links
 
-See my [ORCID](https://orcid.org/0000-0002-4946-9016).
+My [ORCID](https://orcid.org/0000-0002-4946-9016) and
+[Google scholar](https://scholar.google.com/citations?user=Y_MCLNkAAAAJ&hl=en).
