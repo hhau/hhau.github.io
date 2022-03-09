@@ -15,11 +15,11 @@ applications.
 with Markov melding. _arXiv preprint_,
 [arXiv:2111.11566](https://arxiv.org/abs/2111.11566)
 
-**Manderson, A.A**, Goudie, R.J.B. (2020). A numerically stable algorithm for 
-integrating Bayesian models using Markov melding. _arXiv preprint_, 
-[arXiv:2001.08038](https://arxiv.org/abs/2001.08038)
-
 # Publications
+
+**Manderson, A.A**, Goudie, R.J.B. (2022). A numerically stable algorithm for
+integrating Bayesian models using Markov melding. _Statistics and Computing_
+(in press), [arXiv preprint: `arXiv:2001.08038`](https://arxiv.org/abs/2001.08038)
 
 **Manderson, A.**, Rayson, M., Cripps, E., Girolami, M., Gosling, J.P.,
 Hodkiewicz, M., Jones, N. and Ivey, G. (2019). Uncertainty quantification of
