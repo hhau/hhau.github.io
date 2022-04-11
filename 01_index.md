@@ -22,6 +22,6 @@ Australia, supervised by [Berwin Turlach](http://staffhome.ecm.uwa.edu.au/~00043
 and [Kevin Murray](http://www.web.uwa.edu.au/person/kevin.murray). You can find
 my thesis [here](https://doi.org/10.4225/23/5b33343ad69b4).
 
-My academic work is available [here]({% link research.md %}), and software/packages
-I've written are listed [here]({%link software.md%}).
+My academic work is available [here]({% link 03_research.md %}), and software/packages
+I've written are listed [here]({%link 04_software.md%}).
 I try to push my current projects to [GitHub](https://github.com/hhau) where possible.
