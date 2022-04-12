@@ -19,7 +19,7 @@ with Markov melding. _Under revision, arXiv preprint:_,
 
 **Manderson, A.A**, Goudie, R.J.B. (2022). A numerically stable algorithm for
 integrating Bayesian models using Markov melding. _Statistics and Computing_
-**32**(2). DOI: [10.1007/s11222-022-10086-2](https://10.1007/s11222-022-10086-2)
+**32**(2). DOI: [10.1007/s11222-022-10086-2](https://doi.org/10.1007/s11222-022-10086-2)
 
 **Manderson, A.**, Rayson, M., Cripps, E., Girolami, M., Gosling, J.P.,
 Hodkiewicz, M., Jones, N. and Ivey, G. (2019). Uncertainty quantification of
