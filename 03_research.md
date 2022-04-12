@@ -12,14 +12,14 @@ applications.
 # Preprints
 
 **Manderson, A.A**, Goudie, R.J.B. (2021). Combining chains of Bayesian models
-with Markov melding. _arXiv preprint_,
+with Markov melding. _Under revision, arXiv preprint:_,
 [arXiv:2111.11566](https://arxiv.org/abs/2111.11566)
 
 # Publications
 
 **Manderson, A.A**, Goudie, R.J.B. (2022). A numerically stable algorithm for
 integrating Bayesian models using Markov melding. _Statistics and Computing_
-(in press), [arXiv preprint: `arXiv:2001.08038`](https://arxiv.org/abs/2001.08038)
+**32**(2). DOI: [10.1007/s11222-022-10086-2](https://10.1007/s11222-022-10086-2)
 
 **Manderson, A.**, Rayson, M., Cripps, E., Girolami, M., Gosling, J.P.,
 Hodkiewicz, M., Jones, N. and Ivey, G. (2019). Uncertainty quantification of
@@ -35,7 +35,7 @@ DOI: [10.1111/evj.12957](https://doi.org/10.1111/evj.12957)
 **Manderson, A.A.**, Murray, K. and Turlach, B.A. (2018). Dynamic Bayesian
 forecasting of AFL match results using the Skellam distribution, _Australian &
 New Zealand Journal of Statistics_ **60**(2): 174-187.  
-DOI: [10.1111/anzs.12225 ](https://doi.org/10.1111/anzs.12225 )
+DOI: [10.1111/anzs.12225](https://doi.org/10.1111/anzs.12225)
 
 **Manderson, A.A.**, Cripps, E., Murray, K. and Turlach, B.A. (2017). Monotone
 polynomials using BUGS and Stan, _Australian & New Zealand Journal of
@@ -54,7 +54,7 @@ Academic Press, pp. 251–279.
 Methodology for Bayesian monotonic polynomials (2018),
 _The University of Western Australia_. 
 Supervised by: Turlach, B.A. and Murray, K.  
-DOI: [10.4225/23/5b33343ad69b4 ](https://doi.org/10.4225/23/5b33343ad69b4 )
+DOI: [10.4225/23/5b33343ad69b4](https://doi.org/10.4225/23/5b33343ad69b4)
 
 # Links
 
