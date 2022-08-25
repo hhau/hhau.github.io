@@ -9,17 +9,19 @@ permalink: /research/
 [Markov melding](https://projecteuclid.org/euclid.ba/1523671251) methodology and
 applications.
 
+<!-- 
 # Preprints
-
-**Manderson, A.A**, Goudie, R.J.B. (2021). Combining chains of Bayesian models
-with Markov melding. _Under revision, arXiv preprint:_,
-[arXiv:2111.11566](https://arxiv.org/abs/2111.11566)
+ -->
 
 # Publications
 
+**Manderson, A.A**, Goudie, R.J.B. (2022). Combining Chains of Bayesian Models 
+with Markov Melding. _Bayesian Analysis, Advance Publication_. 
+DOI: [10.1214/22-BA1327](https://doi.org/10.1214/22-BA1327)
+
 **Manderson, A.A**, Goudie, R.J.B. (2022). A numerically stable algorithm for
 integrating Bayesian models using Markov melding. _Statistics and Computing_
-**32**(2). DOI: [10.1007/s11222-022-10086-2](https://doi.org/10.1007/s11222-022-10086-2)
+**32**, 24. DOI: [10.1007/s11222-022-10086-2](https://doi.org/10.1007/s11222-022-10086-2)
 
 **Manderson, A.**, Rayson, M., Cripps, E., Girolami, M., Gosling, J.P.,
 Hodkiewicz, M., Jones, N. and Ivey, G. (2019). Uncertainty quantification of
