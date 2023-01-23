@@ -24,4 +24,5 @@ my thesis [here](https://doi.org/10.4225/23/5b33343ad69b4).
 
 My academic work is available [here]({% link 03_research.md %}), and software/packages
 I've written are listed [here]({%link 04_software.md%}).
-I try to push my current projects to [GitHub](https://github.com/hhau) where possible.
+My [GitHub](https://github.com/hhau) and [GitLab](https://gitlab.com/andrew-manderson) pages contain my academic projects, and the associated code/or and `R` packages.
+

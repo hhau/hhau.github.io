@@ -4,6 +4,14 @@ title: Software
 permalink: /software/
 ---
 
+# _pbbo_ ([github](https://github.com/hhau/pbbo))
+
+An `R` package to help translate information about the prior predictive 
+distribution (what you think your data might look like before collection) in to
+an informative prior for complex models. Built atop a multi-stage, 
+multi-objective Bayesian optimisation process to return plausible and useful 
+priors.
+
 # _wsre_ ([github](https://github.com/hhau/wsre))
 
 An `R` package implementing the weighted-sample self-density ratio estimation
