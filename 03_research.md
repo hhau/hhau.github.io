@@ -7,7 +7,8 @@ permalink: /research/
 # Current work
 
 [Markov melding](https://projecteuclid.org/euclid.ba/1523671251) methodology and
-applications.
+applications. I wrote much of my PhD thesis on melding, a near final version of 
+my thesis this available [here](https://drive.google.com/file/d/1qgBHRyul5VcPPPfPSlYynggHMHbxdcDS/view?usp=sharing).
 
 <!-- 
 # Preprints
